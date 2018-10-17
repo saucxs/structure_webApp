@@ -2,7 +2,8 @@
 webApp开发架子，快速搭建webApp相应的页面。可以直接把这个作为基础的wepApp开发的架子，然后根据不同的项目业务需求加上相应的模块。
 
 ## 截屏
-[运行页面](./screenshot/photo1.png)
+![运行页面](https://github.com/saucxs/structure_webApp/screenshot/photo1.png)
+
 
 ## 项目运行
    
